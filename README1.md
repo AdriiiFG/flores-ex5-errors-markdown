@@ -19,7 +19,7 @@ Benvigut a la plataforma definitiva de **Videojocs** retro.
 - Suport per comandaments inalàmbrics
 
 ## Funcionalitats Properes
-|Funcionalitat|Disponibilitat
+|Funcionalitat|Disponibilitat|
 |Multijugador|En desenvolupament
 |Tornejos en línia|2026
 
