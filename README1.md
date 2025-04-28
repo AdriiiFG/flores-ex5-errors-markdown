@@ -20,7 +20,7 @@ Benvigut a la plataforma definitiva de **Videojocs** retro.
 
 ## Funcionalitats Properes
 |Funcionalitat|Disponibilitat|
-|Multijugador|En desenvolupament
+|Multijugador|En desenvolupament|
 |Tornejos en línia|2026
 
 ## Premis i Reconexements:
