@@ -21,7 +21,7 @@ Benvigut a la plataforma definitiva de **Videojocs** retro.
 ## Funcionalitats Properes
 |Funcionalitat|Disponibilitat|
 |Multijugador|En desenvolupament|
-|Tornejos en línia|2026
+|Tornejos en línia|2026|
 
 ## Premis i Reconexements:
 * Millor joc retro 2023
